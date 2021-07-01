@@ -33,6 +33,10 @@ Hartono Zhang
 - Mereview ulang alur alur yang sudah dipelajari dalam mengerjakan tugas ini.
 - Mereview alur alur data dalam aplikasi BIDUK.
 
+29 - 30 Juni 2021
+- Mencoba otak atik pada project aplikasi BIDUK (hanya coba coba)
+- Mereview alur alur data dalam aplikasi BIDUK.
+
 STEP-STEP:
 1. RUN init_query.sql
 2. SETUP web.config TO CONNECT LOCAL DB
